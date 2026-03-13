@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+output/
+unoptimized/
+resize/
+750px/
+1920px/
+jpg/
+webp/
